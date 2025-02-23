@@ -5,21 +5,21 @@ Here's a **sad story** about a couple—filled with emotions, memories, and the 
 
 ### 💔 **"The Last Letter"**  
 
-In a quiet town, where the sunsets painted the sky with gold and crimson, **Ayaan** and **Sara** lived a love story that many envied. Their laughter echoed through coffee shops, and their dreams were sketched across late-night conversations.  
+In a quiet town Hasanpur, where the sunsets painted the sky with gold and crimson, **Mohd Ashraf Rehman** and **Sara Parveen** lived a love story that many envied. Their laughter echoed through coffee shops, and their dreams were sketched across late-night conversations.  
 
-They met on a rainy afternoon, both seeking shelter under the same awning. Ayaan, with his quiet charm, and Sara, whose laughter could light up any room, seemed destined for each other. **For years, they were inseparable.**  
+They met on a rainy afternoon, both seeking shelter under the same awning. Ashraf, with his quiet charm, and Sara, whose laughter could light up any room, seemed destined for each other. **For years, they were inseparable.**  
 
 But sometimes, love isn’t enough.  
 
-As time passed, **life’s cruel unpredictability crept in**. Ayaan received a job offer abroad—a dream he had worked for all his life. Sara, tied to her family and her mother’s failing health, couldn’t leave. They promised they would find a way.  
+As time passed, **life’s cruel unpredictability crept in**. Ashraf received a job offer abroad—a dream he had worked for all his life. Parveen, tied to her family and her mother’s failing health, couldn’t leave. They promised they would find a way.  
 
 But **distance changes things**. The calls became fewer. The texts turned cold. Misunderstandings grew like walls between them. They stopped sharing their days, their thoughts, their fears.  
 
-And then, **one evening**, a letter arrived at Sara’s doorstep.  
+And then, **one evening**, a letter arrived at Parveen’s doorstep.  
 
 ---
 
-> **“My dearest Sara,**  
+> **“My dearest Sara Parveen,**  
 >   
 > I thought distance wouldn’t matter. I believed that love, our love, would conquer it. But some nights here, in this new city, I feel like I’ve been running after dreams I no longer recognize.  
 >   
@@ -29,7 +29,7 @@ And then, **one evening**, a letter arrived at Sara’s doorstep.
 >   
 > I will always love you, Sara. But maybe our story was meant to be a chapter, not the whole book.  
 >   
-> **– Ayaan**”  
+> **– Ashraf**”  
 
 ---
 
@@ -118,9 +118,9 @@ Some loves don’t fade; **they just live in the quiet corners of the heart—un
             <p>A Story of Love, Distance, and Letting Go</p>
         </header>
         <div class="content">
-            <p>In a quiet town, where sunsets painted the sky with gold and crimson, <strong>Ayaan</strong> and <strong>Sara</strong> lived a love story that many envied. Their laughter echoed through coffee shops, and their dreams were sketched across late-night conversations.</p>
+            <p>In a quiet town, where sunsets painted the sky with gold and crimson, <strong>Ashraf</strong> and <strong>Sara</strong> lived a love story that many envied. Their laughter echoed through coffee shops, and their dreams were sketched across late-night conversations.</p>
             <p>But sometimes, love isn’t enough.</p>
-            <p>As time passed, life’s cruel unpredictability crept in. Ayaan received a job offer abroad—a dream he had worked for all his life. Sara, tied to her family and her mother’s failing health, couldn’t leave. The calls became fewer. The texts turned cold. Misunderstandings grew like walls between them.</p>
+            <p>As time passed, life’s cruel unpredictability crept in. Ashraf received a job offer abroad—a dream he had worked for all his life. Sara, tied to her family and her mother’s failing health, couldn’t leave. The calls became fewer. The texts turned cold. Misunderstandings grew like walls between them.</p>
             <div class="quote">“Our story was meant to be a chapter, not the whole book.”</div>
             <p>One evening, a letter arrived at Sara’s doorstep...</p>
             <p><em>“My dearest Sara,</em></p>
